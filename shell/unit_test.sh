@@ -2,4 +2,4 @@
 
 echo "run unit test"
 cd test
-go test .
+/usr/local/bin/go test .
