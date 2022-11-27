@@ -9,4 +9,5 @@ if [ -f output/cicd ];then
   echo "build successful"
 else
   echo "build failed"
+  exit -1
 fi
