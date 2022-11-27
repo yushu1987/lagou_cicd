@@ -1,5 +1,5 @@
 #!/bin/bash
-#export GOROOT=/usr/local/opt/go/libexec
+export GOROOT=/usr/local/opt/go/libexec
 if [ ! -d output ]; then
   mkdir output
 fi
